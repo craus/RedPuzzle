@@ -1,0 +1,6 @@
+HD_DATA_TXT 300
+
+console
+{
+	message		"PRESS ANY KEY TO CONTINUE"				0.0;
+}

@@ -1,0 +1,20 @@
+HD_DATA_TXT 300
+
+game
+{
+	// name/description of the game
+	name				"Red Puzzle";
+
+	// is this game is a default game. only for a Haydee game.
+	// for all the others is false
+	default				true;
+
+	// first scene to load
+	scene				RedPuzzle0;
+
+	// entry to spawn player
+	entry				Start;
+
+	// console intro text filename
+	intro				RedPuzzleIntro;
+}
